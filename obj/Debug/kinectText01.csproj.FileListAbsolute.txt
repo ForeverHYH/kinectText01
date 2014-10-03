@@ -1,0 +1,13 @@
+c:\users\胡永豪\documents\visual studio 2013\Projects\kinectText01\kinectText01\bin\Debug\kinectText01.exe.config
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\kinectText01.csprojResolveAssemblyReference.cache
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\MainWindow.baml
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\MainWindow.g.cs
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\App.g.cs
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\kinectText01_MarkupCompile.cache
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\kinectText01.g.resources
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\kinectText01.Properties.Resources.resources
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\kinectText01.csproj.GenerateResource.Cache
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\bin\Debug\kinectText01.exe
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\bin\Debug\kinectText01.pdb
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\kinectText01.exe
+C:\Users\胡永豪\Documents\Visual Studio 2013\Projects\kinectText01\kinectText01\obj\Debug\kinectText01.pdb
